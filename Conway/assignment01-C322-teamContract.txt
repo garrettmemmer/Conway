@@ -1,0 +1,14 @@
+Created By: Kyle Lemmel (klemmel)
+            Daniel Barnes (barndajo)
+            Max Browning (maxbrow)
+            Madison Black (madiblac)
+Team: 01 (Yellow)
+Filename: assignment01-C322-teamContract.txt
+Part Of: CSCI-C 322: Assignment 1
+Android Studio Project Name: CPR
+Created On: 03/01/18
+Last Edited: 03/01/18
+Submitted: 03/02/18
+
+We have all read and accepted the IU Code of Student Rights, Responsibilities, and Conduct.
+In particular, we attest the code provided here is of original thought and as determined on a case by case basis, references have been provided as necessary.

@@ -1,0 +1,13 @@
+Members:
+	Li, Mengyuan; li504@iu.edu
+	Memmer, Garrett; gtmemmer@indiana.edu
+	Sun, Zhibo; zhibsun@iu.edu
+	Yang, Zhongyu; zy7@iu.edu
+	
+	-Assignment 4: 2 foragers Proxy Pattern in CPR 	
+	
+-submission date:	
+-4/22/2018	
+-	
+-We have read, and accepted, the IU Code of Student Rights, Responsibilities & Conduct	
+-We agree to Uphold and maintain academic and professional honest and integrity

@@ -1,0 +1,33 @@
+Homework 3
+Garrett Memmer
+Andrew Timothy
+Jing Huang
+Fengjia Fang
+
+task 1
+all good
+
+
+task 2
+documentation ~ adequate 40%
+Specifications ~ adequate 40%
+Total = 70% 12 points
+
+task 3 
+CPR
+correctness ~ 30%
+Readability ~ 20%
+Specifications ~ 0%
+Total = 50% 12.5pts
+
+transition of cell
+correctness ~ 40%
+Readability ~ 20%
+Specifications ~ 24%
+Total = 84% 21 pts
+
+12/15
+
+0/10
+
+Total Points: 57.5 points
